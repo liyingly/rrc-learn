@@ -11,4 +11,7 @@ public class MyTest {
     public void haha(){
 
     }
+    public void paly(){
+
+    }
 }
