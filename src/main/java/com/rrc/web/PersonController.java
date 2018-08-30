@@ -13,4 +13,7 @@ public class PersonController {
     public void delete(){
         //删除删除
     }
+    public void select(){
+        //查询查询
+    }
 }
