@@ -7,4 +7,7 @@ public class PersonController {
     private String name;
     private int age;
 
+    public void delete(){
+        //删除删除
+    }
 }
