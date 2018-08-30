@@ -8,4 +8,7 @@ public class MyTest {
         System.out.println("测试测试.......");
     }
 
+    public void paly(){
+
+    }
 }
