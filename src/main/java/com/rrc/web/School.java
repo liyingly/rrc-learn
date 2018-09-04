@@ -35,13 +35,6 @@ public class School {
     public void setTeacher(List<String> teacher) {
         this.teacher = teacher;
     }
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 
     public Integer getSize() {
         return size;
